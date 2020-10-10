@@ -4,9 +4,7 @@ __author__ = "Kaushal Rijal"
 Project Title: Smart Calculator
 Project Author: Kaushal Rijal
 Project Start: Monday, August 24, 2020
-Project End: 
-
-python "D:\Kaushal\Programming\Python\PycharmProjects\Smart Calculator\oop.py"
+Project End: Tuesday, August 25, 2020
 """
 
 import os
