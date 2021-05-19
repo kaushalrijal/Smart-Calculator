@@ -3,8 +3,8 @@ __author__ = "Kaushal Rijal"
 """
 Project Title: Smart Calculator
 Project Author: Kaushal Rijal
-Project Start: Monday, August 24, 2020
-Project End: Tuesday, August 25, 2020
+Project Start: Saturday, May 15, 2021
+Project End: Wednesday, May 19, 2021
 """
 
 import os
